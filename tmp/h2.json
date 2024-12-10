@@ -1,0 +1,1 @@
+[{"network": "10.2.2.1", "mask": "24", "next_hop": "0.0.0.0", "iface": "h2-eth0", "cost": 0}]

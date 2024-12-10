@@ -1,0 +1,1 @@
+[{"network": "10.1.1.1", "mask": "24", "next_hop": "0.0.0.0", "iface": "r-eth1", "cost": 0}, {"network": "10.2.2.1", "mask": "24", "next_hop": "0.0.0.0", "iface": "r-eth2", "cost": 0}]
